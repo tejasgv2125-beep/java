@@ -1,4 +1,4 @@
-package day2.java.problem2;
+package Day2.problem2;
 class Bank{
 	static void intrest() {
 		System.out.println("Bank provides intrest on deposits");

@@ -1,4 +1,4 @@
-package day2.java.overridding;
+package Day3.overridding;
 class Animal{
 	 void sound(){
 		System.out.println("animal makes sound");

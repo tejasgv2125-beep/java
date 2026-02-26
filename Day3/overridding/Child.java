@@ -1,4 +1,4 @@
-package day2.java.overridding;
+package Day3.overridding;
 ////here we are not using the static method so it will nbe over ridden 
 class parent{
 	void show() {

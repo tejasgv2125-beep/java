@@ -1,4 +1,4 @@
-package day2.java.encapsulation;
+package Day2.encapsulation;
 
 public class Student {
 	private String name;

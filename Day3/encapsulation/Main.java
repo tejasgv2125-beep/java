@@ -1,4 +1,4 @@
-package day2.java.encapsulation;
+package Day3.encapsulation;
 
 public class Main {
 	public static void main(String[] args) {
@@ -6,6 +6,7 @@ public class Main {
 		System.out.println(ob.getname());
 		ob.setname("Anup");
 		System.out.println(ob.getname());
+		
 	}
 
 }

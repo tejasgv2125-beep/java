@@ -1,4 +1,4 @@
-package day2.java.suoer_Keyword;
+package Day2.suoer_Keyword;
 
 public class Parent {
 	int x =10;

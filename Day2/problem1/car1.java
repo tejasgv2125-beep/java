@@ -1,4 +1,4 @@
-package day2.java.problem1;
+package Day2.problem1;
 class Vehicle1 {
 
 	   
