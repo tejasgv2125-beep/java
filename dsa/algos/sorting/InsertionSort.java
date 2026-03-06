@@ -13,7 +13,7 @@ public class InsertionSort {
                 j--;//Create empty space[] by shifting
 
             }
-            arr[j+1]=temp;//Fill the space[] with the temp variable
+            arr[j+1]=temp;//Fill the space[] with the sample variable
         }
 
 
