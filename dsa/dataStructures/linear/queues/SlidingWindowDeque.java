@@ -20,7 +20,7 @@ public class SlidingWindowDeque {
             dq.addLast(i);
             //print max
             if(i>=k-1){
-                System.out.print(arr[dq.peekFirst()]+" ");
+                System.out.print(arr[dq.peekFirst()]+"");
             }
         }
     }
