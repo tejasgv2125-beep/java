@@ -99,6 +99,7 @@ public class BinarySearchTree {
         inOrder(root);
         System.out.println();
         System.out.println(root.data);
+        System.out.println();
 
     }
 }
